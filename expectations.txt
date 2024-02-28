@@ -3,3 +3,7 @@ My expectations:
 - Improve my web designing and thinking skills
 - Become proficient at Git
 - Learn how to collaborate properly and work as a team with other developers
+
+Feedback from Yosef:
+    I agree with your expectations, Michael! Especially when it comes to not only becoming better web developers, 
+    but also becoming better teammates and peers with other developers!

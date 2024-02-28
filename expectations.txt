@@ -1,0 +1,5 @@
+My expectations:
+- Learn and master the basics of web development that I will be needing for backend and frontend web development
+- Improve my web designing and thinking skills
+- Become proficient at Git
+- Learn how to collaborate properly and work as a team with other developers
